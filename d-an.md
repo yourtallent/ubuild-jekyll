@@ -34,6 +34,5 @@ page_sections:
   image_2:
     image: ''
     caption: ''
-published: false
 
 ---
