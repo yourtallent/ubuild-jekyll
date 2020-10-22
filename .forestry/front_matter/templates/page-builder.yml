@@ -32,5 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- cho-thue-cay-c-nh.md
 - d-an.md
 - index.md
